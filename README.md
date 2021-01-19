@@ -53,3 +53,14 @@ Nosotros vamos a seleccionar en nuestro proyecto la siguiente opción ***nombre.
 
 ![](/img/img2.PNG)
 
+Dentro de esta hoja nosotros colocaremos nuestro circuito esquemático, pero antes nosotros iremos a colocar algunos datos con información nuestra y del diseño que estamos realizando, para ello seguiremos los siguientes pasos:
+
+1.	***File***->***Page Settings***.
+2.	Seleccionamos en la opción ***Size*** -> ***USLetter 8.5x11in*** esto hace referencia a una hoja tamaño carta en Guatemala.
+3.	Seleccionamos en la opción ***Orientation*** -> ***Landscape***.
+4.	Finalmente llenaremos algunos campos con nuestros datos y datos del diseño que estaremos realizando.
+
+![](/img/img3.PNG)
+
+5. Notaremos que el resultado de llenar los campos anteriores sera el siguiente, con esto nosotros ya tendriamos identificado lo que es nuestro diagrama esquemático.
+![](/img/img4.PNG)
