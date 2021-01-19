@@ -44,3 +44,12 @@ Para iniciar debemos seguir los siguientes pasos:
 
 
 ![](/img/img1.PNG)
+
+## Circuito Esquemático
+
+Como sabemos un circuito esquemático es una representación pictografica de los dispositivos que conforman un diseño de dispositivos, generalmente los diseñadores de hardware e ingenieros entienden este tipo de representación. 
+
+Nosotros vamos a seleccionar en nuestro proyecto la siguiente opción ***nombre.sch***, vamos a ver que se genera una nueva ventana que luce así
+
+![](/img/img2.PNG)
+
