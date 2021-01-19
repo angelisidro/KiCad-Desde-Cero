@@ -23,4 +23,4 @@ Para la descarga debemos seguir los siguientes pasos:
 
 Abriremos nuestra herramienta y esta nos generara una ventana como esta
 
-![](/img/kicadInicio.png)
+![](/img/kicadInicio.PNG)
