@@ -18,3 +18,9 @@ Para la descarga debemos seguir los siguientes pasos:
 	- Procedemos a realizar todos los pasos necesarios para instalar, seleccionando la carpeta donde se realizara la instalación entre otros pasos a seleccionar.
 3. Necesitaremos aproximadamente 5.8GB de espacio libre para nuestra instalación.
 4. Cuando el asistente de instalación este listo, podemos proceder a utilizar nuestra herramienta.
+
+# Bienvenidos a KiCad
+
+Abriremos nuestra herramienta y esta nos generara una ventana como esta
+
+![](/img/kicadInicio.png)
