@@ -34,4 +34,10 @@ Lo primero que debemos hacer es crear un proyecto, en el encontraremos todos los
 Para iniciar debemos seguir los siguientes pasos: 
 
 1. ***File*** -> ***New*** -> ***Project***.
-2.  
+	-	También podemos utilizar el shortcut ***CTRL + N***.
+2.  Luego nos desplegara una nueva ventana en la cual nosotros seleccionaremos la carpeta en la cual queremos almacenar nuestro proyecto, en esa carpeta encontraremos archivos como esquematicos, librerias de proyecto y archivos para PCB, entre otros.
+
+3.	Al crear el proyecto automaticamente se nos crean dos archivos:
+	-	***nombre.kicad_pcb***
+	-	***nombre.sch***
+
