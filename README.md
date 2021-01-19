@@ -62,5 +62,6 @@ Dentro de esta hoja nosotros colocaremos nuestro circuito esquemático, pero ant
 
 ![](/img/img3.PNG)
 
-5. Notaremos que el resultado de llenar los campos anteriores sera el siguiente, con esto nosotros ya tendriamos identificado lo que es nuestro diagrama esquemático.
+5. Notaremos que el resultado de llenar los campos anteriores sera el siguiente, con esto nosotros ya tendriamos identificado lo que es nuestro diagrama esquemático.<br/>
+
 ![](/img/img4.PNG)
