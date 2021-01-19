@@ -40,5 +40,7 @@ Para iniciar debemos seguir los siguientes pasos:
 
 3.	Al crear el proyecto automaticamente se nos crean dos archivos:
 	-	***nombre.kicad_pcb***
-	-	***nombre.sch***
+	-	***nombre.sch***<br/>
+
+
 ![](/img/img1.PNG)
