@@ -24,3 +24,9 @@ Para la descarga debemos seguir los siguientes pasos:
 Abriremos nuestra herramienta y esta nos generara una ventana como esta
 
 ![](/img/kicadInicio.PNG)
+
+Importante en esta ventana encontraremos todas las opciones que tendremos habilitadas mientras trabajamos un proyecto.
+
+## Creando un proyecto
+
+Lo primero que debemos hacer es crear un proyecto, en el encontraremos todos los archivos necesarios para realizar una PCB (Printed Circuit Board).
