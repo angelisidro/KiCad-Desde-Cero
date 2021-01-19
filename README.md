@@ -30,3 +30,8 @@ Importante en esta ventana encontraremos todas las opciones que tendremos habili
 ## Creando un proyecto
 
 Lo primero que debemos hacer es crear un proyecto, en el encontraremos todos los archivos necesarios para realizar una PCB (Printed Circuit Board).
+
+Para iniciar debemos seguir los siguientes pasos: 
+
+1. ***File*** -> ***New*** -> ***Project***.
+2.  
