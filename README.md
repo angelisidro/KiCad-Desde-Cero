@@ -65,3 +65,9 @@ Dentro de esta hoja nosotros colocaremos nuestro circuito esquemático, pero ant
 5. Notaremos que el resultado de llenar los campos anteriores sera el siguiente, con esto nosotros ya tendriamos identificado lo que es nuestro diagrama esquemático.<br/>
 
 ![](/img/img4.PNG)
+
+### Nuestro circuito oscilador
+
+Estaremos trabajando un circuito oscilador realizado con transistores, resistores, capacitores y Led's. Sera un circuito completamente sensillo el cual nos permitira adquirir las habilidades necesarias para poder hacer nuestra primera PCB en KiCad.
+
+![](/img/esquematico.PNG)
