@@ -71,3 +71,8 @@ Dentro de esta hoja nosotros colocaremos nuestro circuito esquemático, pero ant
 Estaremos trabajando un circuito oscilador realizado con transistores, resistores, capacitores y Led's. Sera un circuito completamente sensillo el cual nos permitira adquirir las habilidades necesarias para poder hacer nuestra primera PCB en KiCad.
 
 ![](/img/esquematico.PNG)
+
+### Agregando simbolos al esquemático 
+
+Para agregar simbolos esquemáticos utilizaremos la herramienta ***Place Symbol*** , con ello nos mostrara todos los simbolos esquemáticos que tenemos disponibles para implementar en nuestro proyecto.
+![](/img/cSymbol1.PNG)
