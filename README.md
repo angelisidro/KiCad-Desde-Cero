@@ -76,3 +76,5 @@ Estaremos trabajando un circuito oscilador realizado con transistores, resistore
 
 Para agregar simbolos esquemáticos utilizaremos la herramienta ***Place Symbol*** , con ello nos mostrara todos los simbolos esquemáticos que tenemos disponibles para implementar en nuestro proyecto.
 ![](/img/cSymbol1.PNG)
+
+![](/img/cSymbol.PNG)
