@@ -78,3 +78,5 @@ Para agregar simbolos esquemáticos utilizaremos la herramienta ***Place Symbol*
 ![](/img/cSymbol1.PNG)
 
 ![](/img/cSymbol.PNG)
+
+Con esto nosotros colocaremos todos los simbolos que aparecen en el circuito proporcionado y estaremos listos para hacer las conexiones correspondientes al mismo. Para interconectar todos los simbolos esquemáticos nosotros utilizaremos la herramienta ***Place Wire*** luce así ![](/img/wire.PNG), nosotros también podemos utilizar lo que son ***Label*** para evitarnos el que nuestro diagrama esquemático se vea muy saturado o lleno de lineas ![](/img/label.PNG)
